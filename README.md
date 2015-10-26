@@ -2,6 +2,8 @@
 
 一些有意思的算法例子。所有例子都用 IPython Notebook 写成，方便阅读和调试。
 
+点击下面的链接会在 IPython 的 NBViewer 而不是 github 的默认阅读器中打开，速度和显示效果都会好一些。
+
 + [素数求和的动态规划方法](http://nbviewer.ipython.org/github/jameslao/Algorithmic-Pearls/blob/master/PrimeSum.ipynb)
 + [蓄水池抽样浅说](http://nbviewer.ipython.org/github/jameslao/Algorithmic-Pearls/blob/master/ReservoirSampling.ipynb)
   + 蓄水池
