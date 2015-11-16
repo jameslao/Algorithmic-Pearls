@@ -14,6 +14,7 @@
   + 再接再厉
 
 + [素数求和的动态规划方法](http://nbviewer.ipython.org/github/jameslao/Algorithmic-Pearls/blob/master/PrimeSum.ipynb)
+
 + [蓄水池抽样浅说](http://nbviewer.ipython.org/github/jameslao/Algorithmic-Pearls/blob/master/ReservoirSampling.ipynb)
   + 蓄水池
   + 换个思路
@@ -21,3 +22,9 @@
   + 加个权吧
   + 参考资料
 
++ [正态分布随机数的生成](http://nbviewer.ipython.org/github/jameslao/Algorithmic-Pearls/blob/master/Normal.ipynb)
+  + 反变换法
+  + 中心极限定理……还是不要用的好
+  + Box-Muller 变换
+  + 接受——拒绝法
+  + Ziggurat 方法
